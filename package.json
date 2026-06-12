@@ -1,0 +1,19 @@
+{
+  "name": "t4cgas",
+  "version": "1.0.0",
+  "description": "A simple calculator package for NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "calculator",
+    "math",
+    "npm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
